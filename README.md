@@ -1,2 +1,2 @@
-#Bitcoin mining equipment on sale
-#https://atarashihq.com/
+# Bitcoin mining equipment on sale
+# https://atarashihq.com/
