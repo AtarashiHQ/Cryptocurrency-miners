@@ -1,2 +1,2 @@
-# Bitcoin-miners
-Bitcoin mining equipment on sale
+#Bitcoin mining equipment on sale
+#https://atarashihq.com/
