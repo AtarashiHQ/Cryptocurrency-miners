@@ -3,3 +3,7 @@
 ### Fast shipping, delivery service of your choice.
 ## https://atarashihq.com/
 > *Thank you for choosing us!*
+
+
+![](https://github.com/AtarashiHQ/Bitcoin-miners/blob/main/Logo%20AC.jpg)
+#### Atarashi HQ by [Atarashi Chiheisen Co., Ltd.](https://atarashichiheisen.com/)
